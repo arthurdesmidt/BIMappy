@@ -1,7 +1,7 @@
 BIMappy
 
 Author: A. de Smidt
-website: www.bimappy.nl
+website: www.bimappy.nl  www.bimappy.com
 
 ## Gebruikte externe bibliotheken
 
